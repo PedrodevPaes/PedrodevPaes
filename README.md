@@ -1,0 +1,1 @@
+My name is Pedro, I'm a production engineering student at ufjf and I'm improving my skills in programming, I like bodybuilding and football. I'm studying to become a fullstack developer and data science analyst
